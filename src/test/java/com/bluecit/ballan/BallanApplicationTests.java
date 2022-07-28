@@ -1,0 +1,13 @@
+package com.bluecit.ballan;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BallanApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
